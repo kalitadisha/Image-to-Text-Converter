@@ -27,5 +27,6 @@ This application is a simple OCR (Optical Character Recognition) tool built with
 - Finally, the PDF is downloaded to the user’s device as "OCR_Result.pdf."
 
 ## Screenshots
+1.Interface_Upload_View ![Interface_Upload_View](https://github.com/kalitadisha/Image-to-Text-Converter/blob/main/Image1.png)
 ## Links
 https://kalitadisha.github.io/Image-to-Text-Converter/
