@@ -2,9 +2,11 @@
 This application is a simple OCR (Optical Character Recognition) tool built with HTML, CSS, JavaScript, Tesseract.js, and jsPDF. It allows users to upload an image with text, recognize the text in the image using OCR, and download the recognized text as a PDF.
 
 ## Techstack and Libraries Used
-- HTML/CSS/JavaScript: Basic web application structure.
+- HTML: To provides the structure and content of web pages.
+- CSS: To style the appearance of web page, colors, and fonts.
+- JavaScript:To add interactivity and dynamic behavior to web pages, enabling real-time updates and user engagement.
 - Tesseract.js:To extract text from images.
-- jsPDF: Exporting generated text as PDF files.
+- jsPDF: For exporting generated text as PDF files.
 ## Working
  1.Image Upload:
 - The user uploads an image containing text by clicking the file input.
