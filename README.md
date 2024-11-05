@@ -26,4 +26,4 @@ This application is a simple OCR (Optical Character Recognition) tool built with
 - The splitTextToSize function ensures that long lines of text wrap correctly within the PDF.
 - Finally, the PDF is downloaded to the user’s device as "OCR_Result.pdf."
 
-##Screenshots
+## Screenshots
