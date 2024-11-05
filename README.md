@@ -32,7 +32,7 @@ This application is a simple OCR (Optical Character Recognition) tool built with
 3.Image_Upload![Image_Upload](https://github.com/kalitadisha/Image-to-Text-Converter/blob/main/Image3.png)
 4.Text_Generation ![Text_Generation](https://github.com/kalitadisha/Image-to-Text-Converter/blob/main/Image4.png)
 5.PDF_Conversion ![PDF_Conversion](https://github.com/kalitadisha/Image-to-Text-Converter/blob/main/Image5.png)
-## Links
+## Assignment Links
 https://kalitadisha.github.io/Image-to-Text-Converter/
 ## Video
 [![Project Preview](https://github.com/kalitadisha/Image-to-Text-Converter/blob/main/Image1.png)](https://youtu.be/DEfwOMfpRNw)
