@@ -32,5 +32,7 @@ This application is a simple OCR (Optical Character Recognition) tool built with
 3.Interface_Upload_View ![Interface_Upload_View](https://github.com/kalitadisha/Image-to-Text-Converter/blob/main/Image3.png)
 4.Interface_Upload_View ![Interface_Upload_View](https://github.com/kalitadisha/Image-to-Text-Converter/blob/main/Image4.png)
 5.Interface_Upload_View ![Interface_Upload_View](https://github.com/kalitadisha/Image-to-Text-Converter/blob/main/Image5.png)
+## Video
+
 ## Links
 https://kalitadisha.github.io/Image-to-Text-Converter/
