@@ -35,5 +35,5 @@ This application is a simple OCR (Optical Character Recognition) tool built with
 ## Assignment Links
 https://kalitadisha.github.io/Image-to-Text-Converter/
 ## Video
-[![Project Preview](https://github.com/kalitadisha/Image-to-Text-Converter/blob/main/Image1.png)](https://youtu.be/DEfwOMfpRNw)
+[![Project Preview](https://github.com/kalitadisha/Image-to-Text-Converter/blob/main/Image6.png)](https://youtu.be/DEfwOMfpRNw)
 
