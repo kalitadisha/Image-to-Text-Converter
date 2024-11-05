@@ -25,3 +25,5 @@ This application is a simple OCR (Optical Character Recognition) tool built with
 - When clicked, this button uses the jsPDF library to generate a PDF file containing the recognized text.
 - The splitTextToSize function ensures that long lines of text wrap correctly within the PDF.
 - Finally, the PDF is downloaded to the user’s device as "OCR_Result.pdf."
+
+##Screenshots
